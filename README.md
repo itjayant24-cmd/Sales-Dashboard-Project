@@ -8,6 +8,4 @@ Key Features:  (i) KPI  (Total Sales, Profit, Quantity)
 Insights:
 (i) Identified top-performing regions
 (ii) Analyzed profitable vs loss-making segments
-(iii[SALES_DATA.xlsx](https://github.com/user-attachments/files/26165372/SALES_DATA.xlsx)
-[SALES_DATA.xlsx](https://github.com/user-attachments/files/26165361/SALES_DATA.xlsx)
-) Highlighted high-value customers
+
